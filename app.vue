@@ -17,10 +17,10 @@ import "./main.css";
           </h2>
           <ul class="my-5 text-lg">
             <li class="list-item list-outside">
-              20-30% discounts on food, toys, and supplies.
+              • 20-30% discounts on food, toys, and supplies.
             </li>
-            <li>Vet bill protection</li>
-            <li>Lorem Ipsum</li>
+            <li>• Vet bill protection.</li>
+            <li>• Lorem Ipsum.</li>
           </ul>
           <div class="my-5">
             <div class="text-[#61605f] max-w-sm">
