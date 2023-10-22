@@ -4,12 +4,16 @@
 
 @font-face {
   font-family: "DMsans";
-  src: url("./assets/fonts/DMSans.ttf") format("truetype");
+  font-weight: 400;
+  src: url("/assets/fonts/DMSans.ttf") format("truetype");
+  display: swap;
 }
 
 @font-face {
   font-family: "Moranga";
-  src: url("./assets/fonts/Moranga-Regular.otf");
+  font-weight: 400;
+  src: url("/assets/fonts/Moranga-Regular.otf");
+  display: swap;
 }
 
 .font-dmsans {
