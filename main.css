@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "DMsans";
+  src: url("./assets/fonts/DMSans.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Moranga";
+  src: url("./assets/fonts/Moranga-Regular.otf");
+}
+
+.font-dmsans {
+  font-family: "DMsans", "sans-serif";
+}
+
+.font-moranga {
+  font-family: "Moranga", "sans-serif";
+}
