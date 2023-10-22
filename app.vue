@@ -28,7 +28,10 @@ import "./main.css";
               to you
             </div>
             <form class="flex my-3 gap-4">
-              <input type="email" class="min-w-[50%] rounded-md shadow" />
+              <input
+                type="email"
+                class="px-3 py-1 min-w-[50%] rounded-md shadow"
+              />
               <Button> Notify </Button>
             </form>
           </div>
